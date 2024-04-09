@@ -1,6 +1,8 @@
 # Dialecto App
 ***Dialecto is a simple ReactJS application designed to strengthen your understanding of the Context API. It features two main functionalities: theme switching and language translation.***
 
+> ### Live Link: https://dialecto-app.netlify.app/
+
 > ### Features:
 
 1) ***Theme Switching:***
